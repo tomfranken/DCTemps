@@ -1,0 +1,7 @@
+C:\Users\Tom\Documents\C#scripts\Weather\DCTemps2\DCTemps2\bin\Debug\DCTemps2.exe.config
+C:\Users\Tom\Documents\C#scripts\Weather\DCTemps2\DCTemps2\bin\Debug\DCTemps2.exe
+C:\Users\Tom\Documents\C#scripts\Weather\DCTemps2\DCTemps2\bin\Debug\DCTemps2.pdb
+C:\Users\Tom\Documents\C#scripts\Weather\DCTemps2\DCTemps2\obj\Debug\DCTemps2.csprojAssemblyReference.cache
+C:\Users\Tom\Documents\C#scripts\Weather\DCTemps2\DCTemps2\obj\Debug\DCTemps2.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Documents\C#scripts\Weather\DCTemps2\DCTemps2\obj\Debug\DCTemps2.exe
+C:\Users\Tom\Documents\C#scripts\Weather\DCTemps2\DCTemps2\obj\Debug\DCTemps2.pdb
